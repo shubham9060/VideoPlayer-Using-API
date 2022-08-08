@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidPractical</string>
+    <string name="login">Login</string>
+    <string name="enter_password">Enter password</string>
+    <string name="enter_your_email">Enter your Email</string>
+    <string name="logout">Logout</string>
+    <string name="this_is_the_title">This is the title</string>
+    <string name="video_description">Video Description</string>
+    <string name="image">image</string>
+    <string name="this_is_the_title_of_our_video">This is the title of our video</string>
+</resources>
